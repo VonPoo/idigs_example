@@ -1,5 +1,4 @@
-# idigs_example
-# Here's an Panel Design example.
+# Here's an iDIGs Panel Design example.
 
 Our aim was to screen the breeds we owned against the iDIGs database of variety markers, the breeds we have here are An Qing, BanNa Minipig, Jin Hua, we wanted to distinguish them from American_Feral, BaMaXiang, BaoShan's specific markers.
 
