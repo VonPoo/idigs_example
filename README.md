@@ -85,25 +85,25 @@ Now we have generated the files required for upload i.e. *.bim* & *.frq.strat*.
 
 Here we have chosen the ***Sus scrofa*** reference genome version 11.1.
 
-<img src="C:\Users\fengbo\Pictures\Screenshots\step1.png" alt="Step1" title="Step1" style="zoom:50%;" />
+<img src="step1.png" alt="Step1" title="Step1" style="zoom:50%;" />
 
 ## Step2: Select number of markers
 
 Here we have chosen the number of markers to be 50.
 
-<img src="C:\Users\fengbo\Pictures\Screenshots\step2.png" alt="Step2" title="Step2" style="zoom:50%;" />
+<img src="step2.png" alt="Step2" title="Step2" style="zoom:50%;" />
 
 ## Step3: Choose reference breeds
 
 The reference Breeds we have chosen here are American_Feral, BaMaXiang, BaoShan.
 
-<img src="C:\Users\fengbo\Pictures\Screenshots\step3.png" alt="Step3" style="zoom:50%;" />
+<img src="step3.png" alt="Step3" style="zoom:50%;" />
 
 ## Step4: Upload the above generated files
 
 First upload *AQ_BNM_JH.bim* file, then upload *AQ_BNM_JH.frq.strat* file
 
-<img src="C:\Users\fengbo\Pictures\Screenshots\step4.png" alt="Step4" style="zoom:50%;" />
+<img src="step4.png" alt="Step4" style="zoom:50%;" />
 
 ## Step5: Fill in your email address and submit the task
 
@@ -111,6 +111,6 @@ After completing these steps, about a cup of coffee time, the platform will be s
 
 ## Result: The format of the outcome document and report is as follows
 
-<img src="C:\Users\fengbo\Pictures\Screenshots\step5.png" alt="Step5" style="zoom:75%;" />
+<img src="step5.png" alt="Step5" style="zoom:75%;" />
 
-<img src="C:\Users\fengbo\Pictures\Screenshots\result.png" alt="Report" style="zoom:50%;" />
+<img src="result.png" alt="Report" style="zoom:50%;" />
